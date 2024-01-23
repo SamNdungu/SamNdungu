@@ -35,7 +35,7 @@
 
 ###
 
-<h1 align="left">I'm Samuel Ndungu from Nairobi, 🇰🇪Kenya.</h1>
+<h1 align="left">I'm Samuel Ndungu from Nairobi, 🇰🇪<br> Kenya.</h1>
 
 ###
 
