@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="center">Hey  👋 there. I'm Samuel Ndungu from Nairobi, Kenya.</h3>
+<h3 align="center">Hey  👋 there.</h3>
 
 ###
 
@@ -29,7 +29,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<br clear="both">
+
+<h2 align="center">👩‍💻  About Me</h2>
+
+###
+
+<h1 align="left">I'm Samuel Ndungu from Nairobi, Kenya.</h1>
 
 ###
 
