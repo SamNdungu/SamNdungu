@@ -9,14 +9,17 @@
   <a href="https://twitter.com/ItsNdunguSamuel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.paypal.com/myaccount/summary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  <a href="https://t.me/Sam_Ndungu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://medium.com/@SammNdungu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey  👋 there</h1>
+<h3 align="center">Hey  👋 there. I'm Samuel Ndungu from Nairobi, Kenya.</h3>
 
 ###
 
@@ -30,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Samuel Ndungu from Nairobi, Kenya.<br><br>- ⚡Applied Statistics | Aspiring Underwriter | Eager to Learn and Contribute | Seeking Opportunities to Grow.<br>- 🔭 I’m working as a Junior Insurance Specialist.<br>- 📚 I'm currently learning Python and Data Science.</p>
+<p align="left">- ⚡Applied Statistics | Aspiring Underwriter | Eager to Learn and Contribute | Seeking Opportunities to Grow.<br>- 🔭 I’m working as a Junior Insurance Specialist.<br>- 📚 I'm currently learning Python and Data Science.</p>
 
 ###
 
@@ -85,6 +88,6 @@
 
 ###
 
-<p align="left">Fan Fact: Python by day, data science by night. I wrangle numbers and craft code, all with a passion for building insights. My BSc in Applied Stats meets my Python powers: I'm here to unlock the secrets hidden within your data, one line of code at a time. From spreadsheets to machine learning, I'm your data-driven Python pal. Let's turn raw numbers into actionable insights."</p>
+<p align="left">FanFact  Python by day, data science by night. I wrangle numbers and craft code, all with a passion for building insights.  I'm here to unlock the secrets hidden within your data, one line of code at a time.</p>
 
 ###
