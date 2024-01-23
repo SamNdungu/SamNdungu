@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamNdungu.SamNdungu&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamNdungu.SamNdungu&left_text=Open%20to%20Opportunities%20and%20collaboration."  />
 </div>
 
 ###
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">- ⚡Applied Statistics | Aspiring Underwriter | Eager to Learn and Contribute | Seeking Opportunities to Grow.<br>- 🔭 I’m working as a Junior Insurance Specialist.<br>- 📚 I'm currently learning Python and Data Science.</p>
+<p align="left">⚡I'm currently working as a Junior Insurance Specialist at Safettip Insurance Agency Ltd.<br><br>🔭 Statistics and Data analysis are my bread and butter. I've a strong foundation in data analysis techniques. <br><br>📚 Watch this space - I'm all about blending Insurance know-how with Python and Data Science, cutting-edge tech to make my mark in the industry.</p>
 
 ###
 
