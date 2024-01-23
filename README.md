@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamNdungu.SamNdungu&left_text=Open%20to%20Opportunities%20and%20collaboration."  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamNdungu.SamNdungu&left_text=%F0%9F%A4%9EOpen%20to%20Opportunities%20and%20collaboration."  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
 
 ###
 
-<h1 align="left">I'm Samuel Ndungu from Nairobi, Kenya.</h1>
+<h1 align="left">I'm Samuel Ndungu from Nairobi, 🇰🇪Kenya.</h1>
 
 ###
 
@@ -94,6 +94,12 @@
 
 ###
 
-<p align="left">FanFact  Python by day, data science by night. I wrangle numbers and craft code, all with a passion for building insights.  I'm here to unlock the secrets hidden within your data, one line of code at a time.</p>
+<br clear="both">
+
+<h3 align="center">🤠🤠 Fun Fact  🤠🤠</h3>
+
+###
+
+<p align="left">🔆 Python by day, data science by night. I wrangle numbers and craft code, all with a passion for building insights.  I'm here to unlock the secrets hidden within your data, one line of code at a time.</p>
 
 ###
