@@ -1,6 +1,4 @@
-<br clear="both">
-
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/57837487?v=4"  />
+<img align="left" height="200" src="https://github.com/SamNdungu/SamNdungu/blob/main/Sam1.png?raw=true"  />
 
 ###
 
@@ -80,15 +78,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamNdungu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamNdungu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamNdungu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SamNdungu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=SamNdungu&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <p align="left">Fan Fact: Python by day, data science by night. I wrangle numbers and craft code, all with a passion for building insights. My BSc in Applied Stats meets my Python powers: I'm here to unlock the secrets hidden within your data, one line of code at a time. From spreadsheets to machine learning, I'm your data-driven Python pal. Let's turn raw numbers into actionable insights."</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/SamNdungu/SamNdungu/output/snake.svg" alt="Snake animation" />
 
 ###
