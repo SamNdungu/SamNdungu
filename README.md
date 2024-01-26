@@ -35,7 +35,7 @@
 
 ###
 
-<h1 align="left">I'm from Nairobi, 🇰🇪<br> Kenya.</h1>
+<h1 align="left">I'm from Nairobi, 🇰🇪 Kenya.</h1>
 
 ###
 
