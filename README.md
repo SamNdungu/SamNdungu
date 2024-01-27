@@ -96,6 +96,6 @@
 
 ###
 
-<p align="left">🔆 Python by day, data science by night. I wrangle numbers and craft code, all with a passion for building insights.  I'm here to unlock the secrets hidden within your data, one line of code at a time.</p>
+<p align="left">🔆 Insurance by day! Python, and Data Science by night. I wrangle numbers and craft code, all with a passion for building insights.  I'm here to unlock the secrets hidden within your data, one line of code at a time.</p>
 
 ###
